@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @Jadm1992
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+a lil bit about me:
+
+- 👋 Hi, I’m Dev!
+- 👀 I’m interested in learning new things 
+- 🌱 I’m currently learning Full Stack coding, generative art, blender, Javascript & React
+- 📫 How to reach me: devyonmiller8@gmail.com
+- ⚡ Fun fact: I love potatoes!
 
 <!---
 Jadm1992/Jadm1992 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

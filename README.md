@@ -5,7 +5,7 @@
 ## 🤳🏻 Connect with me: 
 ---
 <a href="https://www.linkedin.com">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="30" />
 </a>
 <!---
 Jadm1992/Jadm1992 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Devin, an [IT Professional](https://www.google.com)
+# - 👋 Hi, I’m Devin, an [IT Professional](https://www.google.com)
 - 👀 I’m interested in learning new things 
 - 🌱 I’m currently learning Full Stack engineering, generative art, blender, Javascript & React
 - 📫 How to reach me: devyonmiller8@gmail.com

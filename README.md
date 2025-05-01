@@ -1,9 +1,9 @@
 # 👋 Hi, I’m Devin, an  [IT Support Specialist](https://www.google.com)
 
 ## 👨🏼‍💻 Information Technology Projects:
----
+
 ## 🤳🏻 Connect with me: 
----
+
 <a href="https://www.linkedin.com">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="30" />
 </a>

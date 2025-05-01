@@ -7,8 +7,8 @@
 <a href="https://www.linkedin.com">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="30" />
 </a>
-<a href="https://www.linkedin.com">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="30" />
+<a href="https://www.medium.com/@devyonmiller8/about">
+  <img src="https://www.vhv.rs/dpng/d/492-4928880_medium-logo-svg-hd-png-download.png" alt="LinkedIn" width="30" padding-left="10" />
 </a>
 <!---
 Jadm1992/Jadm1992 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

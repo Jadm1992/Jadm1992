@@ -7,6 +7,7 @@
 <a href="https://www.linkedin.com">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="30" />
 </a>
+
 <a href="https://www.medium.com/@devyonmiller8/about">
   <img src="https://cdn-icons-png.flaticon.com/512/2111/2111505.png" alt="Medium" width="30" />
 </a>

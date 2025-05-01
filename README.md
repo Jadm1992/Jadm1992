@@ -1,7 +1,7 @@
-# - 👋 Hi, I’m Devin, an  [IT Professional](https://www.google.com)
-- 👀 I’m interested in learning new things 
-- 🌱 I’m currently learning Full Stack engineering, generative art, blender, Javascript & React
-- 📫 How to reach me: devyonmiller8@gmail.com
+# - 👋 Hi, I’m Devin, an  [IT Support Specialist](https://www.google.com)
+- 👀 I’m passionate about troubleshooting and helping users. 
+- 🌱 Currently growing my skills in system administration and networking.
+- 📫 [How to reach me:](mailto:devyonmiller8@gmail.com)
 - ⚡ Fun fact: I love potatoes!
 
 <!---

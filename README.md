@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Devin, an  [IT Support Specialist](https://www.google.com)
----
+
 ## 👨🏼‍💻 Information Technology Projects:
 ---
 ## 🤳🏻 Connect with me: 

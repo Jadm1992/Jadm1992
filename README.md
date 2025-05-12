@@ -3,15 +3,15 @@
 ## 👨🏼‍💻 Information Technology Projects:
 - Working with Microsoft Azure<br>
   [Creating Virtual Machines inside the Cloud](https://github.com/Jadm1992/AzureProject)<br>
-  [Observing Network Traffic and Network Security Groups (NSGs) Functions]()<br>
-  [Create Active Directory Infrastructure in Azure]()<br>
+  [Observing Network Traffic and Network Security Groups (NSGs) Functions](https://github.com/Jadm1992/Observing-Network-Traffic-and-Network-Security-Group-NSG-Functions-between-Azure-Virtual-Machines)<br>
+  [Create Active Directory Infrastructure in Azure](https://github.com/Jadm1992/Create-Active-Directory-Infrastructure-in-Azure)<br>
 - Active Directory<br>
-  [AD Deployment and Configuration]()<br>
-  [Creating Users and Group Policy Objects for AD]()<br>
+  [AD Deployment and Configuration](https://github.com/Jadm1992/active-directory-deployment)<br>
+  [Creating Users and Group Policy Objects for AD](https://github.com/Jadm1992/users-group-and-policy)<br>
 - osTicket (Help Desk Ticketing System)<br>
-  [osTicket: Prerequisites and Installation]()<br>
-  [osTicket: Post-Installation Configuration]()<br>
-  [osTicket: Ticket Lifecycle Examples]()<br>
+  [osTicket: Prerequisites and Installation](https://github.com/Jadm1992/osTicket-Prerequisites-and-Installation)<br>
+  [osTicket: Post-Installation Configuration](https://github.com/Jadm1992/osTicket---Post-Install-Configuration)<br>
+  [osTicket: Ticket Lifecycle Examples](https://github.com/Jadm1992/osTicket---Ticket-Lifecycle-Intake-Through-Resolution)<br>
 
 ## 🤳🏻 Connect with me: 
 

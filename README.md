@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Devin, an  [IT Support Specialist](https://www.linkedin.com/in/devyonmiller)
+# 👋 Hello, I’m Devin, an  [IT Support Specialist](https://www.linkedin.com/in/devyonmiller) 💻📱⌨️
 
 ## 👨🏼‍💻 Information Technology Projects:
 - Working with Microsoft Azure<br>

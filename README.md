@@ -2,16 +2,16 @@
 
 ## 👨🏼‍💻 Information Technology Projects:
 - Working with Microsoft Azure<br>
-  [Creating Virtual Machines inside the Cloud](https://github.com/Jadm1992/AzureProject)
-  [Observing Network Traffic and Network Security Groups (NSGs) Functions]()
-  [Create Active Directory Infrastructure in Azure]()
+  [Creating Virtual Machines inside the Cloud](https://github.com/Jadm1992/AzureProject)<br>
+  [Observing Network Traffic and Network Security Groups (NSGs) Functions]()<br>
+  [Create Active Directory Infrastructure in Azure]()<br>
 - Active Directory<br>
-  [AD Deployment and Configuration]()
-  [Creating Users and Group Policy Objects for AD]()
+  [AD Deployment and Configuration]()<br>
+  [Creating Users and Group Policy Objects for AD]()<br>
 - osTicket (Help Desk Ticketing System)<br>
-  [osTicket: Prerequisites and Installation]()
-  [osTicket: Post-Installation Configuration]()
-  [osTicket: Ticket Lifecycle Examples]()
+  [osTicket: Prerequisites and Installation]()<br>
+  [osTicket: Post-Installation Configuration]()<br>
+  [osTicket: Ticket Lifecycle Examples]()<br>
 
 ## 🤳🏻 Connect with me: 
 
